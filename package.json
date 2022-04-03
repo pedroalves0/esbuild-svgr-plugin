@@ -1,6 +1,6 @@
 {
     "name": "esbuild-svgr-plugin",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "description": "An esbuild plugin that transforms SVGs into React components using SVGR.",
     "author": "Pedro Alves",
     "license": "MIT",
