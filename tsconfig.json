@@ -5,6 +5,8 @@
         "resolveJsonModule": true,
         "strict": true,
         "jsx": "react",
+        "outDir": "dist",
+        "moduleResolution": "node"
     },
     "include": ["./src/**/*", "./example/**/*"],
     "typeRoots": ["./node_modules/@types", "./src/types"]
