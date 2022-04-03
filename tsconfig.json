@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "isolatedModules": true,
+        "esModuleInterop": true,
+        "resolveJsonModule": true,
+        "strict": true,
+        "jsx": "react",
+    },
+    "include": ["./src/**/*", "./example/**/*"],
+    "typeRoots": ["./node_modules/@types", "./src/types"]
+}
